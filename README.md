@@ -163,40 +163,6 @@ For a 15-page business report:
 | No persistent storage | Streamlit session state caching |
 | API key exposure | `.gitignore` + `secrets.toml` |
 
-## 🌐 Deployment (Streamlit Cloud)
-
-### Free Hosting Setup
-
-1. **Push to GitHub**
-   ```bash
-   git init
-   git add .
-   git commit -m "Initial commit"
-   git remote add origin <your-repo-url>
-   git push -u origin main
-   ```
-
-2. **Deploy on Streamlit Cloud**
-   - Go to [share.streamlit.io](https://share.streamlit.io)
-   - Click "New app"
-   - Select your repository
-   - Set main file: `app.py`
-
-3. **Add API Key in Dashboard**
-   - Go to App Settings → Secrets
-   - Add:
-     ```toml
-     GEMINI_API_KEY = "your-api-key-here"
-     ```
-
-4. **Deploy!** 🎉
-   - Your app will be live at `https://yourapp.streamlit.app`
-   - Automatic HTTPS and global CDN
-   - Free tier limitations:
-     - App sleeps after 7 days of inactivity (auto-wakes on visit)
-     - Public repos only
-     - 1 GB resource limit
-
 ## 📁 Project Structure
 
 ```
