@@ -244,10 +244,8 @@ Feel free to use this project as inspiration for your own portfolio!
 
 ## 🔗 Links
 
-- [Live Demo](#) (Add your Streamlit Cloud URL here)
+- [Live Demo](https://ai-powered-pdf-summarizer.streamlit.app/)
 - [Google Gemini API](https://makersuite.google.com/app/apikey)
-- [Streamlit Documentation](https://docs.streamlit.io)
-- [PyPDF2 Documentation](https://pypdf2.readthedocs.io)
 
 ## 🙏 Acknowledgments
 
