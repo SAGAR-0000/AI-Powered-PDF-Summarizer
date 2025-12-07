@@ -1,4 +1,4 @@
-# 📄 AI-Powered PDF Summarizer (Free Tier Edition)
+# 📄 AI-Powered PDF Summarizer
 
 <div align="center">
 
@@ -8,9 +8,11 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Cost](https://img.shields.io/badge/Cost-$0-success.svg)
 
-**A portfolio-ready PDF document summarizer optimized for zero-cost operation within Google Gemini's free tier.**
+**An intelligent PDF document summarizer powered by Google Gemini AI, optimized for speed and efficiency within free tier constraints.**
 
-[Live Demo](#) • [Features](#features) • [Quick Start](#quick-start) • [Demo Strategy](#demo-strategy)
+**Personal Project by SAGAR**
+
+[Live Demo](#) • [Features](#features) • [Quick Start](#quick-start)
 
 </div>
 
@@ -18,13 +20,19 @@
 
 ## 🎯 Overview
 
-This application demonstrates full-stack AI integration skills with a production-ready document intelligence tool. Built specifically for **free tier optimization**, it processes PDFs into concise AI-generated summaries while staying well within API limits.
+A production-ready document intelligence tool I built to demonstrate full-stack AI integration. This application processes PDF documents into concise AI-generated summaries using Google's Gemini 2.5 Flash Lite model, with intelligent optimizations to operate entirely within the free tier.
 
-**Perfect for:**
-- 🎓 Portfolio projects
-- 💼 Technical interviews
-- 🚀 Learning AI integration
-- 📊 Document analysis workflows
+**Key Achievements:**
+- ⚡ **1 API call per PDF** - Optimized from 8+ calls through intelligent caching
+- 🚀 **1,500 PDFs/day capacity** - Efficient quota management
+- 💰 **$0 infrastructure cost** - Free tier optimization
+- 🔒 **Secure deployment** - API key protection best practices
+
+**Use Cases:**
+- 📚 Quick summarization of research papers and textbooks
+- � Business document analysis
+- � Study material condensation
+- 🎯 Document intelligence workflows
 
 ## ✨ Features
 
@@ -78,8 +86,8 @@ Cache result + Display
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd "AI-Powered PDF Summarizer & Chat Interface"
+   git clone https://github.com/SAGAR-0000/AI-Powered-PDF-Summarizer.git
+   cd AI-Powered-PDF-Summarizer
    ```
 
 2. **Install dependencies**
@@ -89,10 +97,12 @@ Cache result + Display
 
 3. **Configure API key**
    
-   Edit `.streamlit/secrets.toml` and add your Gemini API key:
+   Create `.streamlit/secrets.toml` and add your Gemini API key:
    ```toml
    GEMINI_API_KEY = "your-actual-api-key-here"
    ```
+   
+   Get your free API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
 
 4. **Run the application**
    ```bash
@@ -246,16 +256,25 @@ AI-Powered PDF Summarizer & Chat Interface/
 | Monthly Total | ~200 | Well within limits |
 | **Your Cost** | **$0.00** ✨ | Free tier |
 
+## 👨‍💻 Author
+
+**SAGAR**
+- GitHub: [@SAGAR-0000](https://github.com/SAGAR-0000)
+- Project: [AI-Powered PDF Summarizer](https://github.com/SAGAR-0000/AI-Powered-PDF-Summarizer)
+
 ## 🤝 Contributing
 
-This is a portfolio project, but suggestions are welcome! Feel free to:
-- Report bugs via Issues
-- Suggest features
-- Star the repo if you find it useful
+This is a personal portfolio project. If you find it useful:
+- ⭐ Star the repository
+- 🐛 Report bugs via Issues
+- 💡 Suggest features
+- 🔀 Fork for your own projects (MIT License)
 
 ## 📄 License
 
-MIT License - feel free to use this project for your portfolio!
+MIT License - Copyright (c) 2024 SAGAR
+
+Feel free to use this project as inspiration for your own portfolio!
 
 ## 🔗 Links
 
@@ -274,8 +293,10 @@ MIT License - feel free to use this project for your portfolio!
 
 <div align="center">
 
-**Built with ❤️ using Streamlit & Google Gemini 2.5 Flash Lite**
+**Built with ❤️ by SAGAR using Streamlit & Google Gemini 2.5 Flash Lite**
 
-⭐ Star this repo if it helped your portfolio! ⭐
+Personal Portfolio Project | 2024
+
+⭐ Star this repo if you find it useful! ⭐
 
 </div>
