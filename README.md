@@ -12,7 +12,7 @@
 
 **Personal Project by SAGAR**
 
-[Live Demo](#) • [Features](#-features) • [Quick Start](#-quick-start)
+[Live Demo](https://ai-powered-pdf-summarizer.streamlit.app/) • [Features](#-features) • [Quick Start](#-quick-start)
 
 </div>
 
