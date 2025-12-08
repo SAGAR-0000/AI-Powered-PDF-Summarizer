@@ -238,7 +238,7 @@ This is a personal portfolio project. If you find it useful:
 
 ## 📄 License
 
-MIT License - Copyright (c) 2024 SAGAR
+MIT License - Copyright (c) 2025 SAGAR
 
 Feel free to use this project as inspiration for your own portfolio!
 
@@ -259,7 +259,7 @@ Feel free to use this project as inspiration for your own portfolio!
 
 **Built with ❤️ by SAGAR using Streamlit & Google Gemini 2.5 Flash Lite**
 
-Personal Portfolio Project | 2024
+Personal Portfolio Project | 2025
 
 ⭐ Star this repo if you find it useful! ⭐
 
