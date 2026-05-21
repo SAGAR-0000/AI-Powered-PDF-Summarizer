@@ -1,4 +1,4 @@
-# 📄 AI-Powered PDF Summarizer
+# AI-Powered PDF Summarizer
 
 <div align="center">
 
